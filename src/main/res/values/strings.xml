@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Location Service</string>
+    <string name="interest_prompt"> Please select your interests</string>
+
+    <string-array name="interest_arrays">
+        <item>Sciences</item>
+        <item>Business</item>
+        <item>Computers</item>
+        <item>Education</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="init_status">Not logged in</string>
+    <string-array name="spinner_array">
+        <item>10 seconds</item>
+        <item>1 minute</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+    </string-array>
+</resources>
